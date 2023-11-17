@@ -1,0 +1,13 @@
+.search-area{
+    height: 80vh;
+    background-image: url(../../images/bannerbackground.png);
+    background-size: cover;
+}
+
+.container {
+    height: 100%;
+}
+
+.input-area {
+    border-radius: 30%;
+}

@@ -1,0 +1,25 @@
+.footer {
+    background-color: #1a1a1a;
+    color: gainsboro;
+}
+
+.footer-item {
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+
+.footer-col {
+    margin-top: 20px;
+}
+
+.footer-item2 {
+    margin: 0 40px 3px 0;
+}
+
+.footer-logo {
+    width: 20%;
+}
+
+.copyright {
+    color: dimgray;
+}

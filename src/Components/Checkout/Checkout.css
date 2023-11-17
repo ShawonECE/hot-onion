@@ -1,0 +1,50 @@
+hr {
+    margin: 0;
+    padding: 0;
+}
+
+.btn-checkout {
+    background-color: #f52a64;
+    border: none;
+    color: white;
+    padding: 7px 0 7px 0;
+    border-radius: 7px;
+}
+
+.btn-checkout:disabled {
+    background-color: rgba(167, 167, 167, 0.632);
+    border: none;
+    color: white;
+    padding: 7px 0 7px 0;
+    border-radius: 7px;
+}
+
+.address {
+    margin: 10% 5% 0 5%;
+}
+
+.delivery-title {
+    font-weight: 500;
+    margin: 1vh;
+    padding: 0;
+}
+
+.summary {
+    margin: 10% 15% 0 15%;
+    border: none;
+    box-shadow: 1px 10px 10px gainsboro;
+}
+
+.item-img {
+    width: 50%;
+}
+
+.food-title, .summary-text {
+    margin: 0vh;
+    padding: 0;
+    font-size: small;
+}
+
+.food-title {
+    font-weight: 500;
+}

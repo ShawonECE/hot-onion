@@ -1,0 +1,23 @@
+.btn-login {
+    background-color: #f52a64;
+    border: none;
+    color: white;
+    padding: 7px 0 7px 0;
+    border-radius: 7px;
+}
+
+.logo-img{
+    width: 200px;
+}
+
+.background {
+    background-image: url(../../images/bannerbackground.png);
+    background-size: cover;
+}
+
+.aux-text{
+    color: #f52a64 !important;
+    text-decoration: none;
+    font-weight: normal;
+    cursor: pointer;
+}

@@ -1,0 +1,31 @@
+.photo-detail {
+    width: 75%;
+    margin-top: 50px;
+}
+
+.quantity-field {
+    width: 30px;
+    height: 40px;
+    background-color: #f52a64;
+    color: white;
+    border: none;
+    margin-top: 20px;
+}
+
+.increment, .decrement {
+    color: white;
+    background-color: #f52a64;
+    border: none;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.increment {
+    border-top-left-radius: 100%;
+    border-bottom-left-radius: 100%;
+}
+
+.decrement {
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+}

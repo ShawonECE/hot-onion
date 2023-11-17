@@ -1,0 +1,29 @@
+.btn-type-one {
+    width: 80px;
+    margin: none;
+    border: none;
+    font-weight: 500;
+    background-color: #f52a64;
+    border-radius: 33px;
+    color: white;
+}
+
+.navItem {
+    margin: 10px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.link-2 {
+    text-decoration: none;
+    color: white;
+}
+
+#itemNumber {
+    font-size:small;
+    vertical-align: top;
+    margin-left: -2px;
+}
